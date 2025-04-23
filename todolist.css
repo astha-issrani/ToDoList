@@ -1,0 +1,46 @@
+div{
+  height:200px;
+  width:200px;
+  opacity:1;
+}
+.btn{
+  height: min-content;
+}
+.form-control{
+  height:min-content;
+}
+.btn-outline-success{
+  margin-left: 1rem;
+}
+.btn-primary{
+  background-color: crimson;
+  outline: 0px !important;
+}
+h1{
+  font-style: italic;
+}
+.list-group-item{
+  text-shadow: 0.5rem;
+  color: orangered;
+  font-weight: bolder;
+  border: double;
+  border-color: rgb(139, 55, 55);
+}
+body {
+  background-image: url("Download premium image of Hot pink acrylic texture background wallpaper by Nunny about backgrounds, design background, abstract background, pink backgrounds, and abstract 2551287.jpg"); /* Link to your background image */
+  background-size: cover; /* Ensures the image covers the entire viewport */
+  background-position: center; /* Centers the image */
+  background-attachment: fixed; /* Makes the background fixed while scrolling */
+}
+.container{
+  border:solid;
+  border-color: brown;
+  border-bottom-left-radius: 10%;
+  border-top-right-radius: 10%;
+}
+
+
+
+
+
+
